@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @HBarotov
-- 👀 I’m interested in web / data
-- 🌱 I’m currently learning data engineering / Python / PostgreSQL
-- 😄 Pronouns: he/him
-
-- Undergraduate
+- 👀 I’m interested in backend web developmet / data engineering
+- 🌱 I’m currently learning Django / Python
+- Junior at Westminster University
 
 <!---
 HBarotov/HBarotov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
