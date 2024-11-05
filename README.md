@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @HBarotov
-- 👀 I’m interested in backend web developmet / data engineering
-- 🌱 I’m currently learning Django / Python
-- Junior at Westminster University
-
-<!---
-HBarotov/HBarotov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @HBarotov
+- I’m interested in backend web developmet / data engineering / writing
+- I’m currently learning Django / Python
+- Junior in Finance at Westminster University
+- Currently working as a tech writer at Unitlab Inc
